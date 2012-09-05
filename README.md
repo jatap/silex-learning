@@ -1,6 +1,6 @@
 # Description
 
-**Sylex Learing** is a personal repository used to practice with Sylex PHP Framework.
+**Sylex Learning** is a personal repository used to practice with Sylex PHP Framework.
     
     
 # Branches  
