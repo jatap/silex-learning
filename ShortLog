@@ -1,4 +1,4 @@
-Julio Antúnez Tarín (7):
+Julio Antúnez Tarín (9):
       - First sending.
       - Added test data.
       - Bumped to version number 1.0.
@@ -6,7 +6,13 @@ Julio Antúnez Tarín (7):
       - Cleaned filed.
       - Bumped to version number 1.1.
       Merge branch 'release-1.1' into develop
+      - Fixing README.md.
+      Merge branch 'develop' of /Users/julioantuneztarin/Git/silexlearning into develop
 
-Julio Antúnez Tarín (1):
+Julio Antúnez Tarín (5):
       - Updated README.md.
+      - Bumped to version number 1.2.
+      - Merge branch 'release-1.2' into develop
+      - Merge branch 'release-1.2' into develop
+      - Merge branch 'develop' of github.com:jatap/silex-learning into develop
 
