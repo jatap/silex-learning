@@ -3,7 +3,7 @@
         "name": "pimple/pimple",
         "version": "dev-master",
         "version_normalized": "9999999-dev",
-        "time": "2012-07-23 09:54:08",
+        "time": "2012-07-23 07:54:08",
         "source": {
             "type": "git",
             "url": "git://github.com/fabpot/Pimple.git",
@@ -53,7 +53,7 @@
         "version": "dev-master",
         "version_normalized": "9999999-dev",
         "target-dir": "Symfony/Component/Routing",
-        "time": "2012-08-31 02:36:21",
+        "time": "2012-08-31 00:36:21",
         "source": {
             "type": "git",
             "url": "https://github.com/symfony/Routing",
@@ -112,64 +112,11 @@
         }
     },
     {
-        "name": "symfony/http-foundation",
-        "version": "dev-master",
-        "version_normalized": "9999999-dev",
-        "target-dir": "Symfony/Component/HttpFoundation",
-        "time": "2012-08-30 03:43:00",
-        "source": {
-            "type": "git",
-            "url": "https://github.com/symfony/HttpFoundation",
-            "reference": "c61c023d2e9e9ad2edcc9227bd0ec5f79d616e18"
-        },
-        "dist": {
-            "type": "zip",
-            "url": "https://github.com/symfony/HttpFoundation/zipball/c61c023d2e9e9ad2edcc9227bd0ec5f79d616e18",
-            "reference": "c61c023d2e9e9ad2edcc9227bd0ec5f79d616e18",
-            "shasum": ""
-        },
-        "require": {
-            "php": ">=5.3.3"
-        },
-        "type": "library",
-        "extra": {
-            "branch-alias": {
-                "dev-master": "2.1-dev"
-            }
-        },
-        "installation-source": "source",
-        "license": [
-            "MIT"
-        ],
-        "authors": [
-            {
-                "name": "Fabien Potencier",
-                "email": "fabien@symfony.com",
-                "homepage": null,
-                "role": null
-            },
-            {
-                "name": "Symfony Community",
-                "email": null,
-                "homepage": "http://symfony.com/contributors",
-                "role": null
-            }
-        ],
-        "description": "Symfony HttpFoundation Component",
-        "homepage": "http://symfony.com",
-        "autoload": {
-            "psr-0": {
-                "Symfony\\Component\\HttpFoundation": "",
-                "SessionHandlerInterface": "Symfony/Component/HttpFoundation/Resources/stubs"
-            }
-        }
-    },
-    {
         "name": "symfony/event-dispatcher",
         "version": "dev-master",
         "version_normalized": "9999999-dev",
         "target-dir": "Symfony/Component/EventDispatcher",
-        "time": "2012-08-22 09:48:41",
+        "time": "2012-08-22 07:48:41",
         "source": {
             "type": "git",
             "url": "https://github.com/symfony/EventDispatcher",
@@ -228,7 +175,7 @@
         "version": "dev-master",
         "version_normalized": "9999999-dev",
         "target-dir": "Symfony/Component/HttpKernel",
-        "time": "2012-08-28 04:43:50",
+        "time": "2012-08-28 02:43:50",
         "source": {
             "type": "git",
             "url": "https://github.com/symfony/HttpKernel",
@@ -296,19 +243,68 @@
         }
     },
     {
-        "name": "silex/silex",
+        "name": "symfony/http-foundation",
         "version": "dev-master",
         "version_normalized": "9999999-dev",
-        "time": "2012-08-30 09:10:20",
+        "target-dir": "Symfony/Component/HttpFoundation",
+        "time": "2012-09-04 12:24:42",
         "source": {
             "type": "git",
-            "url": "git://github.com/fabpot/Silex.git",
-            "reference": "52c6480be194825489f316d30855645dafa7fae4"
+            "url": "https://github.com/symfony/HttpFoundation",
+            "reference": "c72ddd57edfa6f98b10902fbb545fcab0e78baf8"
         },
         "dist": {
             "type": "zip",
-            "url": "https://github.com/fabpot/Silex/zipball/52c6480be194825489f316d30855645dafa7fae4",
-            "reference": "52c6480be194825489f316d30855645dafa7fae4",
+            "url": "https://github.com/symfony/HttpFoundation/zipball/c72ddd57edfa6f98b10902fbb545fcab0e78baf8",
+            "reference": "c72ddd57edfa6f98b10902fbb545fcab0e78baf8",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.3"
+        },
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "2.1-dev"
+            }
+        },
+        "installation-source": "source",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Fabien Potencier",
+                "email": "fabien@symfony.com"
+            },
+            {
+                "name": "Symfony Community",
+                "homepage": "http://symfony.com/contributors"
+            }
+        ],
+        "description": "Symfony HttpFoundation Component",
+        "homepage": "http://symfony.com",
+        "autoload": {
+            "psr-0": {
+                "Symfony\\Component\\HttpFoundation": "",
+                "SessionHandlerInterface": "Symfony/Component/HttpFoundation/Resources/stubs"
+            }
+        }
+    },
+    {
+        "name": "silex/silex",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "time": "2012-09-04 13:42:47",
+        "source": {
+            "type": "git",
+            "url": "git://github.com/fabpot/Silex.git",
+            "reference": "73b18ef69f74d878465dba0836ad96affc6c820c"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://github.com/fabpot/Silex/zipball/73b18ef69f74d878465dba0836ad96affc6c820c",
+            "reference": "73b18ef69f74d878465dba0836ad96affc6c820c",
             "shasum": ""
         },
         "require": {
@@ -355,15 +351,12 @@
         "authors": [
             {
                 "name": "Fabien Potencier",
-                "email": "fabien@symfony.com",
-                "homepage": null,
-                "role": null
+                "email": "fabien@symfony.com"
             },
             {
                 "name": "Igor Wiedler",
                 "email": "igor@wiedler.ch",
-                "homepage": "http://wiedler.ch/igor/",
-                "role": null
+                "homepage": "http://wiedler.ch/igor/"
             }
         ],
         "description": "The PHP micro-framework based on the Symfony2 Components",

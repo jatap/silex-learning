@@ -1,5 +1,5 @@
 {
-    "hash": "8b969d21a77c28ed0b93855c6c480e40",
+    "hash": "09dab3331093167fbab7f9686494afb2",
     "packages": [
         {
             "package": "pimple/pimple",
@@ -22,8 +22,8 @@
         {
             "package": "silex/silex",
             "version": "dev-master",
-            "source-reference": "52c6480be194825489f316d30855645dafa7fae4",
-            "commit-date": "1346332220"
+            "source-reference": "73b18ef69f74d878465dba0836ad96affc6c820c",
+            "commit-date": "1346766167"
         },
         {
             "package": "symfony/event-dispatcher",
@@ -46,8 +46,8 @@
         {
             "package": "symfony/http-foundation",
             "version": "dev-master",
-            "source-reference": "c61c023d2e9e9ad2edcc9227bd0ec5f79d616e18",
-            "commit-date": "1346312580"
+            "source-reference": "c72ddd57edfa6f98b10902fbb545fcab0e78baf8",
+            "commit-date": "1346761482"
         },
         {
             "package": "symfony/http-kernel",

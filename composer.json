@@ -5,7 +5,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Common": "vendor/common",
+            "Common": "vendor",
             "Ewo": "src"
         }
     }

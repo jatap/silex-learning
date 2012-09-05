@@ -14,5 +14,5 @@ return array(
     'SessionHandlerInterface' => $vendorDir . '/symfony/http-foundation/Symfony/Component/HttpFoundation/Resources/stubs',
     'Pimple' => $vendorDir . '/pimple/pimple/lib/',
     'Ewo' => $baseDir . '/src',
-    'Common' => $baseDir . '/vendor/common',
+    'Common' => $baseDir . '/vendor',
 );
