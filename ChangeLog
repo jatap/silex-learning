@@ -1,3 +1,46 @@
+commit 037f4d00bb78f0c622fe5a6014298cb23ac0f656
+Merge: 028e2a0 4e721fa
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Wed Sep 5 06:42:37 2012 +0200
+
+    Merge branch 'develop' of /Users/julioantuneztarin/Git/silexlearning into develop
+    
+    Conflicts:
+    	README.md
+
+commit 028e2a0276d8912589c98a94ba9daf9bff5bb8cf
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Wed Sep 5 06:42:08 2012 +0200
+
+    - Fixing README.md.
+
+commit 4e721fa22eaa4fd82af4adef3a2ef3c351664b55
+Merge: 58da641 c2cbb6e
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Wed Sep 5 06:40:49 2012 +0200
+
+    - Merge branch 'develop' of github.com:jatap/silex-learning into develop
+
+commit 58da64199703d22b8e2e39c976cc07f310e8d1ae
+Merge: 9f5a717 4701995
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Wed Sep 5 06:35:15 2012 +0200
+
+    - Merge branch 'release-1.2' into develop
+
+commit c2cbb6e3c0fb5f75ec89d5932166240c8a94e3f0
+Merge: 9f5a717 4701995
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Wed Sep 5 06:35:15 2012 +0200
+
+    - Merge branch 'release-1.2' into develop
+
+commit 47019956b5ef9fbab0eb45e54dac4b49a4b9fa6e
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Wed Sep 5 06:34:26 2012 +0200
+
+    - Bumped to version number 1.2.
+
 commit 9f5a7175123de6b8528d7a750c04c918d577c610
 Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
 Date:   Wed Sep 5 06:33:17 2012 +0200
